@@ -1,0 +1,55 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_type": "Dessert",
+    "recipe_name": "Gateau au chocolat",
+    "ingredients": {
+      "Beurre salé": "200 gr",
+      "Chocolat": "200 gr",
+      "Oeuf": "4",
+      "Sucre": "150 gr",
+      "Farine": "80 gr",
+    },
+    "allergens": [],
+    "diet": ["vegetarien"],
+    "steps": [
+      "Faire fondre le beurre avec le chocolat.",
+      "Battre les oeufs avec le sucre.",
+      "Ajouter la farine aux oeufs et au sucre.",
+      "Mélanger le beurre / chocolat avec les oeufs/sucre/farine jusqu'à obtenier une pate homogène.",
+      "Beurrer et fariner un moule à gateau",
+      "Verser le mélange dans le moule et mettre au four à 190 degrés pendant 15 à 20 minutes.",
+    ],
+    "related_recipes":[
+      2,
+    ]
+  },
+  {
+    "recipe_id":2,
+    "recipe_type": "Dessert",
+    "recipe_name":"Crème anglaise",
+    "ingredients":{
+      "Lait demi écrémé": "50 cl",
+      "Jaune d'oeuf": "4",
+      "Sucre": "50 gr",
+      "Gousse de vanille": "1",
+      "Maïzena": "1 cuillère à soupe",
+    },
+    "allergens": [],
+    "diet": ["vegetarien"],
+    "steps": [
+      "Porter à ébullition le lait en ayant pris soin d'y plonger la gousse de vanille fendue en deux dans sa longueur.",
+      "Laisser ensuite infuser pendant 10 min, puis retirer la gousse de vanille, et récupérer les grains en la grattant. Délayer ceux-ci dans le lait.",
+      "Dans une seconde casserole, fouetter activement les jaunes d'oeuf et le sucre afin que le mélange blanchisse.",
+      "Incorporer ensuite petit à petit le lait et rendre l'appareil bien homogène avec le fouet.",
+      "Ajouter ensuite la maïzena et réchauffer le mélange à feu moyen.",
+      "Sans cesser de remuer, guetter le moment où la crème s'épaissit. Ne pas laisser boullir.",
+      "Quand la crème s'épaissit, retirer du feu et fouetter activement.",
+      "Réserver dans un bol au frigo."
+      "Mélanger la crème avant de la servir.",
+    ],
+    "related_recipes":[
+      1,
+    ]
+  }
+]
