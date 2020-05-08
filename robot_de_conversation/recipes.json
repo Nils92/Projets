@@ -8,7 +8,7 @@
       "Chocolat": "200 gr",
       "Oeuf": "4",
       "Sucre": "150 gr",
-      "Farine": "80 gr",
+      "Farine": "80 gr"
     },
     "allergens": [],
     "diet": ["vegetarien"],
@@ -18,10 +18,10 @@
       "Ajouter la farine aux oeufs et au sucre.",
       "Mélanger le beurre / chocolat avec les oeufs/sucre/farine jusqu'à obtenier une pate homogène.",
       "Beurrer et fariner un moule à gateau",
-      "Verser le mélange dans le moule et mettre au four à 190 degrés pendant 15 à 20 minutes.",
+      "Verser le mélange dans le moule et mettre au four à 190 degrés pendant 15 à 20 minutes."
     ],
     "related_recipes":[
-      2,
+      2
     ]
   },
   {
@@ -33,7 +33,7 @@
       "Jaune d'oeuf": "4",
       "Sucre": "50 gr",
       "Gousse de vanille": "1",
-      "Maïzena": "1 cuillère à soupe",
+      "Maïzena": "1 cuillère à soupe"
     },
     "allergens": [],
     "diet": ["vegetarien"],
@@ -45,11 +45,11 @@
       "Ajouter ensuite la maïzena et réchauffer le mélange à feu moyen.",
       "Sans cesser de remuer, guetter le moment où la crème s'épaissit. Ne pas laisser boullir.",
       "Quand la crème s'épaissit, retirer du feu et fouetter activement.",
-      "Réserver dans un bol au frigo."
-      "Mélanger la crème avant de la servir.",
+      "Réserver dans un bol au frigo.",
+      "Mélanger la crème avant de la servir."
     ],
     "related_recipes":[
-      1,
+      1
     ]
   }
 ]
