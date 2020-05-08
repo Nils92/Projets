@@ -4,11 +4,11 @@
     "recipe_type": "Dessert",
     "recipe_name": "Gateau au chocolat",
     "ingredients": {
-      "Beurre salé": "200 gr",
-      "Chocolat": "200 gr",
+      "Beurre salé": "200 g",
+      "Chocolat": "200 g",
       "Oeuf": "4",
-      "Sucre": "150 gr",
-      "Farine": "80 gr"
+      "Sucre": "150 g",
+      "Farine": "80 g"
     },
     "allergens": [],
     "diet": ["vegetarien"],
@@ -31,7 +31,7 @@
     "ingredients":{
       "Lait demi écrémé": "50 cl",
       "Jaune d'oeuf": "4",
-      "Sucre": "50 gr",
+      "Sucre": "50 g",
       "Gousse de vanille": "1",
       "Maïzena": "1 cuillère à soupe"
     },
